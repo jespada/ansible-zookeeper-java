@@ -8,7 +8,7 @@ You will need to have vagrant installed and vagrant-hostmanager plugin
 
 
 ```
-vagrant pluin install vagrant-hostmanager
+vagrant plugin install vagrant-hostmanager
 ```
 
 Provision a 3 nodes zookeeper cluster:
