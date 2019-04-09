@@ -4,7 +4,7 @@ Reuse most of the code in https://github.com/AnsibleShipyard/ansible-zookeeper
 
 
 ## Running locally:
-You will need to have vagrant installed and vagrant-hostmanager plugin
+You will need to have vagrant installed and vagrant-hostmanager plugin:
 
 
 ```
